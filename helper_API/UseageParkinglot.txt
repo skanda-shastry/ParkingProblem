@@ -1,0 +1,11 @@
+
+
+Use case:
+
+1) load the car into Parkinglot 
+Usage 
+   ruby Parkinglot_helper.rb LoadCar
+
+2) Get the Car info from the  Parkinglot based on the slot 
+Usage 
+  ruby Parkinglot_getinfo.rb GetInfo
